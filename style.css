@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+span{
+    display: block;
+}
+h1{
+    padding-bottom: 60px;
+}
+
+h2{
+    padding-top: 40px;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black ;
+    display: inline-block;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.button:hover{
+    transform: scale(1.1);
+}
+
+#grey{
+    background: grey;
+}
+#white{
+    background: white;
+}
+#red{
+    background: #df3207;
+}
+#yellow{
+    background: #ffba08;
+}
+#orange{
+    background: #fb6107;
+}
+#blue{
+    background: #41ead4;
+}
+#pink{
+    background: #ff6685;
+}
+#green{
+    background: #6af252;
+}
+#brown{
+    background: #C34A2C;
+}
