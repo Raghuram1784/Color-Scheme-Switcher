@@ -7,7 +7,7 @@ The **Color Scheme Switcher** is a simple web application built using **HTML, CS
 ![Color Scheme Switcher](ColorPicker.png)
 
 ## Installation 
-- There is no installation required for this project. Simply open the index.html file in a web browser to view and interact with the Color Scheme Switcher.
+- There is no installation required for this project. Simply open the **index.html** file in a web browser to view and interact with the Color Scheme Switcher.
 
 ## Usage 
 - Open the index.html file in a web browser. 
