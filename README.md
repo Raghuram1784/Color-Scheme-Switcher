@@ -2,7 +2,7 @@
 # Color-Scheme-Switcher 
 
 ## Description 
-The **Color Scheme Switcher** is a simple web application built using HTML, CSS, and JavaScript. It allows users to dynamically change the background color of a webpage by clicking on different color options. The initial background color is set to white. 
+The **Color Scheme Switcher** is a simple web application built using **HTML, CSS, and JavaScript**. It allows users to dynamically change the background color of a webpage by clicking on different color options. The initial background color is set to white. 
 
 ![Color Scheme Switcher](ColorPicker.png)
 
